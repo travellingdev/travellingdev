@@ -4,9 +4,9 @@ Senior full-stack engineer based in Bangalore. I build things end-to-end.
 
 ## What I'm shipping
 
-- **[ChatSpread](https://chatspread.com)** - multi-provider LLM comparison platform with an LLM-as-judge evaluation layer. React, Node.js, Razorpay. 100+ users.
-- - **[IndianFoodNearMe.co](https://indianfoodnearme.co)** - programmatic-SEO directory indexing 9,900+ Indian restaurants across 43 US states. ~35 new users per week via organic search.
-  - - **[CollabScene](https://collabscene.com)** - zero-commission creator-brand collaboration marketplace (in development).
+- **[ChatSpread](https://chatspread.com)** | multi-provider LLM comparison platform with an LLM-as-judge evaluation layer. React, Node.js, Razorpay. 100+ users.
+- - **[IndianFoodNearMe.co](https://indianfoodnearme.co)** | programmatic-SEO directory indexing 9,900+ Indian restaurants across 43 US states. ~35 new users per week via organic search.
+  - - **[CollabScene](https://collabscene.com)** | zero-commission creator-brand collaboration marketplace (in development).
    
     - ## Day job
    
